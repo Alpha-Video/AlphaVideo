@@ -53,7 +53,7 @@ pip install .
 ```
 @inproceedings{pang2020tubeTK,
   title={TubeTK: Adopting Tubes to Track Multi-Object in a One-Step Training Model},
-  author={Bo, Pang and Yizhuo, Li and Yifan, Zhang and Muchen, Li and Lu, Cewu},
+  author={Pang, Bo and Li, Yizhuo and Zhang, Yifan and Li, Muchen and Lu, Cewu}
   booktitle={CVPR},
   year={2020}
 }
