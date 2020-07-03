@@ -39,7 +39,7 @@ pip install .
 
 * #### Action recognition
 
-  For this task, we provide the [AlphAction](https://github.com/MVIG-SJTU/AlphAction) model as an implementation of paper ["Asynchronous Interaction Aggregation for Action Detection"](https://arxiv.org/abs/2004.07485).
+  For this task, we provide the [AlphAction](https://github.com/MVIG-SJTU/AlphAction) model as an implementation of paper ["Asynchronous Interaction Aggregation for Action Detection"](https://arxiv.org/abs/2004.07485). This paper is recently accepted by **ECCV 2020**!
   
   <img src="https://github.com/MVIG-SJTU/AlphAction/raw/master/gifs/demo2.gif" width = "600" align=center />
     
@@ -58,10 +58,10 @@ pip install .
   year={2020}
 }
 
-@article{tang2020asynchronous,
+@inproceedings{tang2020asynchronous,
   title={Asynchronous Interaction Aggregation for Action Detection},
   author={Tang, Jiajun and Xia, Jin and Mu, Xinzhi and Pang, Bo and Lu, Cewu},
-  journal={arXiv preprint arXiv:2004.07485},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
   year={2020}
 }
 ```
